@@ -1,0 +1,587 @@
+{
+  "current_path": "\/eventos\/belo-horizonte-mg",
+  "current_query": {
+    "ordem": "data"
+  },
+  "params": {
+    "only": "url,images,title,location,start_date,end_date,event_type,duration_type,company,collections",
+    "page": 1,
+    "limit": 21,
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "ip": "200.209.161.146",
+    "sort": "date",
+    "ongoing": "0",
+    "with_ttrs": 1
+  },
+  "order": "date",
+  "showOrderBy": false,
+  "events": [{
+    "collections": [19],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T15:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cd18287befe4-lg.png",
+      "original": "https:\/\/images.sympla.com.br\/5cd18287befe4.png",
+      "xs": "https:\/\/images.sympla.com.br\/5cd18287befe4-xs.png"
+    },
+    "location": {
+      "address": "Rua Esp\u00edrito Santo",
+      "address_alt": "",
+      "address_num": "901",
+      "city": "Belo Horizonte",
+      "lat": -19.9226541,
+      "lon": -43.9379041,
+      "name": "Dayrell Hotel & Centro de Conven\u00e7\u00f5es",
+      "neighborhood": "Centro",
+      "state": "MG",
+      "zip_code": "30160-031"
+    },
+    "start_date": "2019-05-31T11:00:00+00:00",
+    "title": "Welcome To ClearCorrect - Belo Horizonte",
+    "url": "https:\/\/www.sympla.com.br\/welcome-to-clearcorrect---belo-horizonte__522904"
+  }, {
+    "collections": [4],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T20:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5c90e74f8fae1-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5c90e74f8fae1.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5c90e74f8fae1-xs.jpg"
+    },
+    "location": {
+      "address": "Avenida do Contorno",
+      "address_alt": "17o andar",
+      "address_num": "3800",
+      "city": "Belo Horizonte",
+      "lat": -19.9278757,
+      "lon": -43.9209857,
+      "name": "Espa\u00e7o GoFree",
+      "neighborhood": "Santa Efig\u00eania",
+      "state": "MG",
+      "zip_code": "30110-017"
+    },
+    "start_date": "2019-05-31T11:00:00+00:00",
+    "title": "Planejamento, Gest\u00e3o e Marketing para Dentistas",
+    "url": "https:\/\/www.sympla.com.br\/planejamento-gestao-e-marketing-para-dentistas__482371"
+  }, {
+    "collections": [4, 6],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T13:30:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5c9003e7aa93a-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5c9003e7aa93a.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5c9003e7aa93a-xs.jpg"
+    },
+    "location": {
+      "address": "Rua Professor Jos\u00e9 Vieira de Mendon\u00e7a",
+      "address_alt": "Ed. Institucional",
+      "address_num": "770",
+      "city": "Belo Horizonte",
+      "lat": -19.8853016,
+      "lon": -43.974925,
+      "name": "BH-TEC",
+      "neighborhood": "Engenho Nogueira",
+      "state": "MG",
+      "zip_code": "31310-260"
+    },
+    "start_date": "2019-05-31T11:45:00+00:00",
+    "title": "Caf\u00e9 na sexta | Apresenta\u00e7\u00f5es usando storytelling",
+    "url": "https:\/\/www.sympla.com.br\/cafe-na-sexta--apresentacoes-usando-storytelling__542977"
+  }, {
+    "collections": [4],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T15:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cbf570ed7e51-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cbf570ed7e51.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cbf570ed7e51-xs.jpg"
+    },
+    "location": {
+      "address": "Raja Gabaglia",
+      "address_alt": "3\u00ba Andar",
+      "address_num": "4343",
+      "city": "Belo Horizonte",
+      "lat": -19.9679803,
+      "lon": -43.9540716,
+      "name": "Raja Valley",
+      "neighborhood": "Santa L\u00facia",
+      "state": "MG",
+      "zip_code": "30350-577"
+    },
+    "start_date": "2019-05-31T12:00:00+00:00",
+    "title": "Aprenda a investir em Startups ",
+    "url": "https:\/\/www.sympla.com.br\/aprenda-a-investir-em-startups__511752"
+  }, {
+    "collections": [3, 8],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T14:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ce22a051e41c-lg.png",
+      "original": "https:\/\/images.sympla.com.br\/5ce22a051e41c.png",
+      "xs": "https:\/\/images.sympla.com.br\/5ce22a051e41c-xs.png"
+    },
+    "location": {
+      "address": "Rua Bernardo Guimar\u00e3es",
+      "address_alt": "5\u00ba andar",
+      "address_num": "245",
+      "city": "Belo Horizonte",
+      "lat": -19.9325726,
+      "lon": -43.9268877,
+      "name": "Coworking CW1510",
+      "neighborhood": "Funcion\u00e1rios",
+      "state": "MG",
+      "zip_code": "30140-080"
+    },
+    "start_date": "2019-05-31T12:00:00+00:00",
+    "title": "Aprenda a desenvolver o foco e tomar decis\u00f5es mais assertivas.",
+    "url": "https:\/\/www.sympla.com.br\/aprenda-a-desenvolver-o-foco-e-tomar-decisoes-mais-assertivas__535170"
+  }, {
+    "collections": [3, 8],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-02T22:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cdacea92df62-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cdacea92df62.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cdacea92df62-xs.jpg"
+    },
+    "location": {
+      "address": "Avenida Brasil",
+      "address_alt": "sala 402",
+      "address_num": "84",
+      "city": "Belo Horizonte",
+      "lat": -19.9237487,
+      "lon": -43.9213105,
+      "name": "Consultar Gest\u00e3o de Pessoas",
+      "neighborhood": "Santa Efig\u00eania",
+      "state": "MG",
+      "zip_code": "30140-001"
+    },
+    "start_date": "2019-05-31T12:00:00+00:00",
+    "title": "Forma\u00e7\u00e3o em PNL",
+    "url": "https:\/\/www.sympla.com.br\/formacao-em-pnl__530410"
+  }, {
+    "collections": [2],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T20:10:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cbe9300c4de5-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cbe9300c4de5.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cbe9300c4de5-xs.jpg"
+    },
+    "location": {
+      "address": "Pedro Jos\u00e9 Pardo",
+      "address_alt": "",
+      "address_num": "1000",
+      "city": "Belo Horizonte",
+      "lat": -19.9529763,
+      "lon": -43.9131006,
+      "name": "Mirante das Mangabeiras",
+      "neighborhood": "Mangabeiras",
+      "state": "MG",
+      "zip_code": "47512-000"
+    },
+    "start_date": "2019-05-31T12:30:00+00:00",
+    "title": "Tirolesa BH - Sexta_Feira ",
+    "url": "https:\/\/www.sympla.com.br\/tirolesa-bh---sexta-feira__511190"
+  }, {
+    "collections": [3, 6, 8],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T18:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ce6e3618a0a9-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5ce6e3618a0a9.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5ce6e3618a0a9-xs.jpg"
+    },
+    "location": {
+      "address": "Rua dos Aimor\u00e9s",
+      "address_alt": "",
+      "address_num": "1451",
+      "city": "Belo Horizonte",
+      "lat": -19.9287584,
+      "lon": -43.9378985,
+      "name": "Una - Campus Aimor\u00e9s",
+      "neighborhood": "Lourdes",
+      "state": "MG",
+      "zip_code": "30140-071"
+    },
+    "start_date": "2019-05-31T16:00:00+00:00",
+    "title": "PDGA  Programa de desenvolvimento de gestores acad\u00eamicos",
+    "url": "https:\/\/www.sympla.com.br\/pdga--programa-de-desenvolvimento-de-gestores-academicos__539222"
+  }, {
+    "collections": [4, 6],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T18:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cec2548c160a-lg.png",
+      "original": "https:\/\/images.sympla.com.br\/5cec2548c160a.png",
+      "xs": "https:\/\/images.sympla.com.br\/5cec2548c160a-xs.png"
+    },
+    "location": {
+      "address": "Avenida Presidente Ant\u00f4nio Carlos",
+      "address_alt": "Bloco 3, sala 1046",
+      "address_num": "6627",
+      "city": "Belo Horizonte",
+      "lat": -19.8725429,
+      "lon": -43.9648718,
+      "name": "Escola de Engenharia da UFMG",
+      "neighborhood": "Pampulha",
+      "state": "MG",
+      "zip_code": "31270-901"
+    },
+    "start_date": "2019-05-31T16:00:00+00:00",
+    "title": "Capacita\u00e7\u00e3o de Eletr\u00f4nica",
+    "url": "https:\/\/www.sympla.com.br\/capacitacao-de-eletronica__541819"
+  }, {
+    "collections": [4, 6],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T20:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cd985df82a62-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cd985df82a62.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cd985df82a62-xs.jpg"
+    },
+    "location": {
+      "address": "Rua Rio Verde",
+      "address_alt": "",
+      "address_num": "176",
+      "city": "Belo Horizonte",
+      "lat": -19.947206,
+      "lon": -43.92986,
+      "name": "RS Forma\u00e7\u00e3o Profissional",
+      "neighborhood": "Carmo",
+      "state": "MG",
+      "zip_code": "30310-750"
+    },
+    "start_date": "2019-05-31T17:00:00+00:00",
+    "title": "Juntas Somos Mais Fortes",
+    "url": "https:\/\/www.sympla.com.br\/juntas-somos-mais-fortes__529052"
+  }, {
+    "collections": [6, 8],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T19:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cee806f7d425-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cee806f7d425.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cee806f7d425-xs.jpg"
+    },
+    "location": {
+      "address": "Rua Tom\u00e9 de Souza",
+      "address_alt": "",
+      "address_num": "701",
+      "city": "Belo Horizonte",
+      "lat": -19.9376035,
+      "lon": -43.9335074,
+      "name": "R. Tom\u00e9 de Souza, 701",
+      "neighborhood": "Funcion\u00e1rios",
+      "state": "MG",
+      "zip_code": "30140-131"
+    },
+    "start_date": "2019-05-31T17:00:00+00:00",
+    "title": "REFOR\u00c7O MATEM\u00c1TICO - FUN\u00c7\u00d5ES - DETERMINANTE",
+    "url": "https:\/\/www.sympla.com.br\/reforco-matematico---funcoes---determinante__543852"
+  }, {
+    "collections": [8],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T19:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ca679af78f7e-lg.png",
+      "original": "https:\/\/images.sympla.com.br\/5ca679af78f7e.png",
+      "xs": "https:\/\/images.sympla.com.br\/5ca679af78f7e-xs.png"
+    },
+    "location": {
+      "address": "Rua Ant\u00f4nio de Albuquerque",
+      "address_alt": "",
+      "address_num": "335",
+      "city": "Belo Horizonte",
+      "lat": -19.9390581,
+      "lon": -43.9338435,
+      "name": "Hotel Max Savassi",
+      "neighborhood": "Funcion\u00e1rios",
+      "state": "MG",
+      "zip_code": "30130-005"
+    },
+    "start_date": "2019-05-31T17:00:00+00:00",
+    "title": "PEATE e Emiss\u00f5es Otoac\u00fasticas - Teoria e Pr\u00e1tica",
+    "url": "https:\/\/www.sympla.com.br\/peate-e-emissoes-otoacusticas---teoria-e-pratica__496779"
+  }, {
+    "collections": [8],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T21:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ce07ac2aa703-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5ce07ac2aa703.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5ce07ac2aa703-xs.jpg"
+    },
+    "location": {
+      "address": "Avenida Pastor Anselmo Silvestre",
+      "address_alt": "",
+      "address_num": "1495",
+      "city": "Belo Horizonte",
+      "lat": -19.8751009,
+      "lon": -43.9235574,
+      "name": "Centro Unviersit\u00e1rio de Belo Horizonte",
+      "neighborhood": "Dom Joaquim",
+      "state": "MG",
+      "zip_code": "31920-012"
+    },
+    "start_date": "2019-05-31T17:00:00+00:00",
+    "title": " Quiropraxia Cl\u00ednica Pr\u00e1tica e Evid\u00eancias e os desafios de rec\u00e9m formado na Fisioterapia.",
+    "url": "https:\/\/www.sympla.com.br\/quiropraxia-clinica-pratica-e-evidencias-e-os-desafios-de-recem-formado-na-fisioterapia__521354"
+  }, {
+    "collections": [6, -1],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T22:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cd9dde6e3c45-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cd9dde6e3c45.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cd9dde6e3c45-xs.jpg"
+    },
+    "location": {
+      "address": "Rua Dom Jos\u00e9 Gaspar",
+      "address_alt": "Sala Audiovisual, Pr\u00e9dio 04",
+      "address_num": "500",
+      "city": "Belo Horizonte",
+      "lat": -19.9235646,
+      "lon": -43.9902799,
+      "name": "PUC Minas - Unidade Cora\u00e7\u00e3o Eucar\u00edstico - Sala Audiovisual, Pr\u00e9dio 04 ",
+      "neighborhood": "Cora\u00e7\u00e3o Eucar\u00edstico",
+      "state": "MG",
+      "zip_code": "30535-060"
+    },
+    "start_date": "2019-05-31T18:00:00+00:00",
+    "title": "VIDEODROME: A s\u00edndrome do v\u00eddeo (Exibi\u00e7\u00e3o do filme)",
+    "url": "https:\/\/www.sympla.com.br\/videodrome-a-sindrome-do-video-exibicao-do-filme__529822"
+  }, {
+    "collections": [6, 8],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-29T02:59:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cf01d423ad9d-lg.png",
+      "original": "https:\/\/images.sympla.com.br\/5cf01d423ad9d.png",
+      "xs": "https:\/\/images.sympla.com.br\/5cf01d423ad9d-xs.png"
+    },
+    "location": {
+      "address": "Avenida do Contorno",
+      "address_alt": "Loja 10",
+      "address_num": "6777",
+      "city": "Belo Horizonte",
+      "lat": -19.9398249,
+      "lon": -43.9408439,
+      "name": "Curso Eduardo Chaves Ltda",
+      "neighborhood": "Santo Ant\u00f4nio",
+      "state": "MG",
+      "zip_code": "30110-043"
+    },
+    "start_date": "2019-05-31T18:00:00+00:00",
+    "title": "Bols\u00e3o Intensivo ENEM 2019",
+    "url": "https:\/\/www.sympla.com.br\/bolsao-intensivo-enem-2019__545323"
+  }, {
+    "collections": [6, -1],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-05-31T21:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ce29cdb01f5c-lg.png",
+      "original": "https:\/\/images.sympla.com.br\/5ce29cdb01f5c.png",
+      "xs": "https:\/\/images.sympla.com.br\/5ce29cdb01f5c-xs.png"
+    },
+    "location": {
+      "address": "Rua Gon\u00e7alves Dias",
+      "address_alt": "",
+      "address_num": "1218",
+      "city": "Belo Horizonte",
+      "lat": -19.931307,
+      "lon": -43.936241,
+      "name": "Museu da Cadeira Brasileira",
+      "neighborhood": "Funcion\u00e1rios",
+      "state": "MG",
+      "zip_code": "30140-091"
+    },
+    "start_date": "2019-05-31T19:00:00+00:00",
+    "title": "Expo \u201cA Cadeira e a Poesia\u201d | Talk: Luz Del Fuego, a Bailarina do Povo",
+    "url": "https:\/\/www.sympla.com.br\/expo-a-cadeira-e-a-poesia--talk-luz-del-fuego-a-bailarina-do-povo__535121"
+  }, {
+    "collections": [1],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T02:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cd2d56c7d982-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cd2d56c7d982.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cd2d56c7d982-xs.jpg"
+    },
+    "location": {
+      "address": "Rua Professor Moacir Gomes de Freitas",
+      "address_alt": "",
+      "address_num": "688",
+      "city": "Belo Horizonte",
+      "lat": -19.8724556,
+      "lon": -43.9741383,
+      "name": "Faculdade de Odontologia UFMG",
+      "neighborhood": "Pampulha",
+      "state": "MG",
+      "zip_code": "31310-000"
+    },
+    "start_date": "2019-05-31T20:00:00+00:00",
+    "title": "A Vinhada Odonto UFMG",
+    "url": "https:\/\/www.sympla.com.br\/a-vinhada-odonto-ufmg__523587"
+  }, {
+    "collections": [19],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T06:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5cebfd50355c0-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5cebfd50355c0.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5cebfd50355c0-xs.jpg"
+    },
+    "location": {
+      "address": "Rua Jos\u00e9 Rodrigues Pereira ",
+      "address_alt": "",
+      "address_num": "640",
+      "city": "Belo Horizonte ",
+      "lat": -19.9684739,
+      "lon": -43.9593603,
+      "name": "Cacapas Buritis ",
+      "neighborhood": "Buritis ",
+      "state": "MG",
+      "zip_code": ""
+    },
+    "start_date": "2019-05-31T21:00:00+00:00",
+    "title": "Mistura Boa Ca\u00e7apas",
+    "url": "https:\/\/www.sympla.com.br\/mistura-boa-cacapas__541435"
+  }, {
+    "collections": [1, 6],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T01:00:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ced9c544d593-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5ced9c544d593.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5ced9c544d593-xs.jpg"
+    },
+    "location": {
+      "address": "Avenida Bias Fortes",
+      "address_alt": "Casa Amarela",
+      "address_num": "368",
+      "city": "Belo Horizonte",
+      "lat": -19.9295753,
+      "lon": -43.9405307,
+      "name": "Samba Rooms Hostel",
+      "neighborhood": "Lourdes",
+      "state": "MG",
+      "zip_code": "30170-010"
+    },
+    "start_date": "2019-05-31T21:00:00+00:00",
+    "title": "Marrocos e Peru  Experience ",
+    "url": "https:\/\/www.sympla.com.br\/marrocos-e-peru--experience__534709"
+  }, {
+    "collections": [4, 6],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T01:30:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ceec4993f0fa-lg.png",
+      "original": "https:\/\/images.sympla.com.br\/5ceec4993f0fa.png",
+      "xs": "https:\/\/images.sympla.com.br\/5ceec4993f0fa-xs.png"
+    },
+    "location": {
+      "address": "Avenida Afonso Pena",
+      "address_alt": "",
+      "address_num": "1901",
+      "city": "Belo Horizonte",
+      "lat": -19.9289499,
+      "lon": -43.9319851,
+      "name": "PIT\u00c1GORAS",
+      "neighborhood": "Centro",
+      "state": "MG",
+      "zip_code": "30130-005"
+    },
+    "start_date": "2019-05-31T21:30:00+00:00",
+    "title": "I Ciclo de Palestras em Gest\u00e3o Estrat\u00e9gica: RH Contempor\u00e2neo",
+    "url": "https:\/\/www.sympla.com.br\/i-ciclo-de-palestras-em-gestao-estrategica-rh-contemporaneo__535855"
+  }, {
+    "collections": [6, 12],
+    "company": "sympla",
+    "duration_type": "single",
+    "end_date": "2019-06-01T00:30:00+00:00",
+    "event_type": "NORMAL",
+    "images": {
+      "lg": "https:\/\/images.sympla.com.br\/5ce74ef8d2b3f-lg.jpg",
+      "original": "https:\/\/images.sympla.com.br\/5ce74ef8d2b3f.jpg",
+      "xs": "https:\/\/images.sympla.com.br\/5ce74ef8d2b3f-xs.jpg"
+    },
+    "location": {
+      "address": "Rua Rio de Janeiro ",
+      "address_alt": "Sala 102",
+      "address_num": "1323",
+      "city": "Belo Horizonte",
+      "lat": -19.9259815,
+      "lon": -43.9402141,
+      "name": "UNIBH - Campus Lourdes",
+      "neighborhood": "Centro",
+      "state": "MG",
+      "zip_code": "30160-041"
+    },
+    "start_date": "2019-05-31T21:30:00+00:00",
+    "title": "Grande Final do 3\u00ba Torneio Jur\u00eddico do UniBH",
+    "url": "https:\/\/www.sympla.com.br\/grande-final-do-3-torneio-juridico-do-unibh__539674"
+  }],
+  "events_in_search": 1698,
+  "has_pagination": true,
+  "search_term": "",
+  "explore_slug": "belo-horizonte-mg\/",
+  "is_collection_header": false,
+  "collectionObj": null,
+  "category": null,
+  "range": null,
+  "city": {},
+  "banner": null,
+  "collection": null,
+  "CITY": {
+    "CITY_ID": "1606",
+    "NAME": "Belo Horizonte",
+    "SLUG": "belo-horizonte-mg",
+    "STATE": "MG",
+    "EVENT_COUNT": "2134"
+  },
+  "session_type": "guest",
+  "session_platform": "WEB",
+  "session_impact": []
+}
