@@ -8,14 +8,12 @@ from datetime import datetime, date, timedelta
 from repositories.destination_repository import DestinationRepository
 from repositories.source_repository import SourceRepository
 from utils.multi_thread_manager import MultiThreadManager, getCountRunning
-# from utils.thread_manager import ThreadManager
 
 class ProcessorService():
   def __init__(self, debugMode, pageSize, threads):
     self.pageSize = pageSize
     self.threads = threads
     self.sourceRepository = SourceRepository()
-    # self.threadManager = ThreadManager(debugMode)
 
   def process(self, cities):
     self._processData(cities)
@@ -45,23 +43,14 @@ class ProcessorService():
             running = len(getCountRunning())
             if running < self.threads:
               print('Page {} of {}'.format((page + 1), number_of_pages))
-              # self._processBlock(source_pages[page], page, number_of_pages)
               multiThreadManager = MultiThreadManager(target=self._processBlock, args=(source_pages[page], page, number_of_pages))
               threads.append(multiThreadManager)
               multiThreadManager.start()
               page += 1
             multiThreadManager.sleep()
 
-          # Thread
-          # while page < number_of_pages:
-          #   running = len(getCountRunning())
-          #   if running < self.threads:
-          #     print('Page {} of {}'.format((page + 1), number_of_pages))
-          #     thread = self.threadManager.start(target=self._processBlock, args=(source_pages[page], page, number_of_pages))
-          #     threads.append(thread)
-          #     page += 1
-          #   self.threadManager.sleep()
-          # self.threadManager.waitThemFinish(threads)
+          # self._processBlock(source_pages[page], page, number_of_pages)
+
           page_city += 1
         else:
           print('No Data to process')

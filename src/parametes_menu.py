@@ -1,11 +1,8 @@
 import getopt
 from datetime import datetime, timedelta
 
-# from utils.multi_thread_manager import getCpusNumber
-
 def ParametersMenu(argv):
   try:
-    # numberCpus = getCpusNumber()
     params = {
       'cities': [ 'belo-horizonte-mg', 'brasilia-df', 'florianopolis-sc', 'goiania-go', 'rio-de-janeiro-rj', 'porto-alegre-rs', 'recife-pe', 'salvador-ba', 'sao-paulo-sp' ],# '/belo-horizonte-mg',
       'date': {

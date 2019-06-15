@@ -24,10 +24,12 @@ class MongoConnection():
         # password = os.environ.get('MONGODB_PASSWORD')
         # database = os.environ.get('MONGODB_DATABASE')
 
-        server = 'ds231207.mlab.com'
-        port = 31207
-        user = 'sympla'
-        password = 'Sympla%402019'
+        server = '127.0.0.1'
+        port = 27017
+        user = 'root'
+        password = 'MongoDB%402019'
         database = 'sympla'
 
-        return 'mongodb://{}:{}@{}:{}/{}'.format(user, password, server, port, database)
+        # return 'mongodb://{}:{}@{}:{}/{}'.format(user, password, server, port, database)
+
+        return 'mongodb://{}:{}/{}'.format(server, port, database)

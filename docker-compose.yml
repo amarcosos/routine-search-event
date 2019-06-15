@@ -1,43 +1,40 @@
 version: '2'
 
 services:
-  server:
+  routine:
     env_file:
       - .env
     image: python:3.7
+    links:
+      - mongodb
     working_dir: /mnt
     volumes:
       - .:/mnt
-    depends_on:
-      - db
+    command: python src/main.py --debug
     ports:
       - 3000:3000
-    command: python src/server.py
-  db:
+
+  mongodb:
     image: mongo:3.6
-    environment:
-      - MONGO_DATA_DIR=/data/db
-      - MONGO_LOG_DIR=/dev/null
-    volumes:
-      - ./data/db:/data/db
     ports:
         - 27017:27017
-    command: mongod --smallfiles --logpath=/dev/null # --quiet
+    volumes:
+      - ./data/db:/data/db
 
-  testserver:
+  testroutine:
     env_file: .env
     image: python:3.7
     working_dir: /mnt
     volumes:
       - .:/mnt
     depends_on:
-      - testdb
+      - testmongodb
     ports:
       - 27017:27017
     environment:
       APPLICATION_PORT: 27017
-      APPLICATION_DB_CONTAINER: testdb
+      APPLICATION_MONGODB_CONTAINER: testmongodb
     command: python -m pytest test/
 
-  testdb:
+  testmongodb:
     image: mongo:3.6

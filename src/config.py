@@ -8,10 +8,10 @@ PORT = int(os.getenv('APPLICATION_PORT', '3000'))
 
 DB_CONTAINER = os.getenv('APPLICATION_DB_CONTAINER', 'db')
 MONGODB = {
-    'user': os.getenv('APPLICATION_MONGO_USER', 'sympla'),
-    'pw': os.getenv('APPLICATION_MONGO_PW', 'Sympla%402019'),
-    'host': os.getenv('APPLICATION_MONGO_HOST', 'ds231207.mlab.com'),
-    'port': os.getenv('APPLICATION_MONGO_PORT', 31207),
+    'user': os.getenv('APPLICATION_MONGO_USER', 'root'),
+    'pw': os.getenv('APPLICATION_MONGO_PW', 'MongoDB2019!'),
+    'host': os.getenv('APPLICATION_MONGO_HOST', '127.0.0.1'),
+    'port': os.getenv('APPLICATION_MONGO_PORT', 27017),
     'db': os.getenv('APPLICATION_MONGO_DB', 'sympla'),
 
     # 'user': os.getenv('APPLICATION_MONGO_USER', 'sympla'),

@@ -10,5 +10,3 @@ class DestinationRepository():
   def insertMany(self, data):
     for item in data:
       self.collection.update({ '_id': item.get('_id') }, item, True)
-    # self.collection.update_many({ '_id': data['_id'] }, data, True)
-    # self.collection.insert(data)
