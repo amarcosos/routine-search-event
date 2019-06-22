@@ -1,7 +1,7 @@
 
 # Routine Search Event
 
-## Sympla events page crawler Python + MongoDB
+## Sympla events page crawler Python + MongoDB + Docker
 
 This file contains all the instructions for running the project in your machine.
 
