@@ -80,7 +80,6 @@ The application structure presented in this boilerplate is grouped primarily by 
 │   │   └── processor_service.py      # Methods to easily perform the ETL process on the source and target event models
 │   ├── util                          # Some helpfull, non-business Python functions for your project
 │   │   └── multi_thread_manager.py   # Methods to apply mult-thread in ETL processes
-│   │   └── thread_manager.py         # Methods to apply single-thread in ETL processes
 │   ├── config.py                     # Project configuration settings
 │   ├── main.py                       # Project commands
 │   └── server.py                     # Server configuration
